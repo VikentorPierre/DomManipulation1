@@ -1,0 +1,17 @@
+{
+  "name": "document",
+  "version": "1.0.0",
+  "description": "",
+  "main": "basic.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "deploy": "gh-pages -d document"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "homepage": "https://vikentorpierre.github.io/DomManipulation1/",
+  "dependencies": {
+    "gh-pages": "^2.1.1"
+  }
+}
